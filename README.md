@@ -16,7 +16,7 @@
 - And there is Servlet container which manages these servets class.
 ### Servlet Container
 
-   <img src="https://github.com/user-attachments/assets/a3559071-84bb-4a83-aeec-0d3e5eed4e49" width="50" height="60">
+   <img src="https://github.com/user-attachments/assets/a3559071-84bb-4a83-aeec-0d3e5eed4e49" width="400" height="480">
 
 ### Major Problem with servlet 
 - There are lot of manaul servlet configration, such as filtering, mapping etc. Which makes it cumbersome to maintain the config file, i.e. `Web.xml` 

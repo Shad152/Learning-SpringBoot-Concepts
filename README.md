@@ -16,7 +16,7 @@
 - And there is Servlet container which manages these servets class.
 ### Servlet Container
     ```md
-    ![servlet container](assets/images/servlet-container2.jpg)
+    ![servlet container](assets/images/servlet-container2.jpeg)
     ```
 
 ### Major Problem with servlet 

@@ -15,9 +15,8 @@
 - Servet is Java Class which handles the client request, process it and return the response.
 - And there is Servlet container which manages these servets class.
 ### Servlet Container
-    ```md
+
     ![ img ](https://media.geeksforgeeks.org/wp-content/uploads/20220110225113/FLow3.jpg)
-    ```
 
 ### Major Problem with servlet 
 - There are lot of manaul servlet configration, such as filtering, mapping etc. Which makes it cumbersome to maintain the config file, i.e. `Web.xml` 
